@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeldOgLotto", "HeldOgLotto\HeldOgLotto.csproj", "{8D6A2CC9-0EC3-4681-81DF-0E21629A9711}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juletræet_Med_Sin_Pynt", "Juletræet_Med_Sin_Pynt\Juletræet_Med_Sin_Pynt.csproj", "{95B36C78-2F10-4569-B69A-BF4EA39F5B2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8D6A2CC9-0EC3-4681-81DF-0E21629A9711}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D6A2CC9-0EC3-4681-81DF-0E21629A9711}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D6A2CC9-0EC3-4681-81DF-0E21629A9711}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95B36C78-2F10-4569-B69A-BF4EA39F5B2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95B36C78-2F10-4569-B69A-BF4EA39F5B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95B36C78-2F10-4569-B69A-BF4EA39F5B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95B36C78-2F10-4569-B69A-BF4EA39F5B2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
