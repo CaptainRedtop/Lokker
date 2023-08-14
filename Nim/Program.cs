@@ -12,6 +12,11 @@
             {
                     Console.WriteLine("How many matches will you take?\n");
                     int playerChoice = Convert.ToInt32(Console.ReadLine());
+                    if (playerChoice > matches)
+                    {
+                        Console.WriteLine("Invalid input!");
+                        continue;
+                    }
                     if (playerChoice < 1 || playerChoice > 3)
                     {
                         Console.WriteLine("Invalid input!");
