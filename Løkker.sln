@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeldOgLotto", "HeldOgLotto\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juletræet_Med_Sin_Pynt", "Juletræet_Med_Sin_Pynt\Juletræet_Med_Sin_Pynt.csproj", "{95B36C78-2F10-4569-B69A-BF4EA39F5B2A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nim", "Nim\Nim.csproj", "{4AA6B28D-4C8E-4ECD-9BDA-60691F8DE8C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{95B36C78-2F10-4569-B69A-BF4EA39F5B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95B36C78-2F10-4569-B69A-BF4EA39F5B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95B36C78-2F10-4569-B69A-BF4EA39F5B2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AA6B28D-4C8E-4ECD-9BDA-60691F8DE8C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AA6B28D-4C8E-4ECD-9BDA-60691F8DE8C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AA6B28D-4C8E-4ECD-9BDA-60691F8DE8C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AA6B28D-4C8E-4ECD-9BDA-60691F8DE8C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
